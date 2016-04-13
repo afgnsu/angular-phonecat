@@ -1,6 +1,7 @@
 ![Demo](https://github.com/afgnsu/angular-phonecat/blob/master/DEMO.png)
 ![Demo2](https://github.com/afgnsu/angular-phonecat/blob/master/DEMO2.png)
 ![Demo3](https://github.com/afgnsu/angular-phonecat/blob/master/DEMO3.png)
+![Demo4](https://github.com/afgnsu/angular-phonecat/blob/master/DEMO4.png)
 
 教學請參考： https://docs.angularjs.org/tutorial
 
